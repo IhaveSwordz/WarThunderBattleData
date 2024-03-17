@@ -2,12 +2,13 @@ import copy
 import json
 import time
 import urllib.request
+import unicodedata
 from DataCollectorMk4 import Battle
 
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"
 GameOnURL = "http://localhost:8111/map_info.json"
 winLossURL = "http://localhost:8111/mission.json"
-timeout = 10
+timeout = 20
 
 
 class Main:
@@ -42,6 +43,17 @@ class Main:
 		print("------------------------------------------------------")
 		print("BATTLE END")
 		print("------------------------------------------------------")
+	
+	def getData(self, data):
+		prev = data[0]
+		for i in data[1::]:
+			if i['time'] <= prev['time']:
+				prev = i
+				self.Battle.update(unicodedata.normalize("NFC", i['msg']).replace("⋇ ", "^"))
+			else:
+				break
+		print(self.Battle)
+	
 	
 	def mainLoop(self):
 		recent = 0
@@ -83,14 +95,7 @@ class Main:
 						break
 				self.Battle = Battle()
 				if updated:
-					prev = data[0]
-					for i in data[1::]:
-						if i['time'] <= prev['time']:
-							prev = i
-							self.Battle.update(i['msg'])
-						else:
-							break
-					print(self.Battle)
+					self.getData(data)
 			else:
 				if Main.getGameState():
 					gameInSession = True
