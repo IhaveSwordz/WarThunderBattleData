@@ -8,7 +8,8 @@ from DataCollectorMk4 import Battle
 URL = "http://localhost:8111/hudmsg?lastEvt=0&lastDmg=0"
 GameOnURL = "http://localhost:8111/map_info.json"
 winLossURL = "http://localhost:8111/mission.json"
-timeout = 20
+timeout = 10
+saveFile = "battles.json"
 
 
 class Main:
@@ -20,8 +21,17 @@ class Main:
 			self.Battle.update(log)
 	
 	def logFile(self):
-		with open("Logs.txt", "ab") as f:
-			f.write(b"\n" + bytes(self.Battle.__str__().encode("utf-8")) + b"\n\n" + b"-" * 100)
+		print("logfile called")
+		print(self.Battle.getJSON())
+		if self.Battle.getJSON()['players'] == []:
+			print("logfile aborted")
+			return
+		with open("saveFile.json", "rb") as f:
+			data: dict = json.load(f)
+			data["battles"].append(self.Battle.getJSON())
+		with open("saveFile.json", "wb") as f:
+			f.write(bytes(json.dumps(data).encode("utf-8")))
+		self.Battle = Battle()
 	
 	@staticmethod
 	def GetGameData():
@@ -39,7 +49,6 @@ class Main:
 	
 	def reset(self):
 		self.logFile()
-		self.Battle = Battle()
 		print("------------------------------------------------------")
 		print("BATTLE END")
 		print("------------------------------------------------------")
@@ -93,7 +102,7 @@ class Main:
 						updated = True
 					else:
 						break
-				self.Battle = Battle()
+				# self.Battle = Battle()
 				if updated:
 					self.getData(data)
 			else:

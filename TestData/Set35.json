@@ -1,0 +1,1133 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 225,
+            "msg": "╀P1KE╀ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 226,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 320
+        },
+        {
+            "id": 227,
+            "msg": "╀P1KE╀ L1b3rt has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 228,
+            "msg": "L1b3rttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 322
+        },
+        {
+            "id": 229,
+            "msg": "╊1MAW╋ RyanEdelman (AMX-32) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 230,
+            "msg": "╊1MAW╋ RyanEdelman (AMX-32) has achieved \"Mission Maker\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 231,
+            "msg": "╊1MAW╋ RyanEdelman (AMX-32) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 232,
+            "msg": "╀P1KE╀ RepearZz (T-72A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 233,
+            "msg": "╊1MAW╋ ⋇Coasty2013 (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 234,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 235,
+            "msg": "╊1MAW╋ The_Floppy_Disk (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 236,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 237,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (Imp.Chaparral) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 238,
+            "msg": "╀P1KE╀ highonvitamin (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 239,
+            "msg": "╊1MAW╋ darthholden41181 (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 240,
+            "msg": "╊1MAW╋ darthholden41181 (Ayit) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 241,
+            "msg": "╊1MAW╋ darthholden41181 (Ayit) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 242,
+            "msg": "╀P1KE╀ L1b3rt (TAM 2IP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 243,
+            "msg": "╀P1KE╀ L1b3rt (TAM 2IP) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 244,
+            "msg": "╊1MAW╋ RevanTheReaper (Type 74 (G)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 245,
+            "msg": "╊1MAW╋ BasedHitman (◊MiG-19S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 246,
+            "msg": "╊1MAW╋ xxRedcapxx (KPz-70) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 247,
+            "msg": "╊1MAW╋ Handler__One (◊MiG-19S) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 248,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 249,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 326
+        },
+        {
+            "id": 250,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) destroyed ┾TEKS┿ Girino_Preto (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 106
+        },
+        {
+            "id": 251,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 252,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 107
+        },
+        {
+            "id": 253,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged ┾TEKS┿ gustavoloucoo (B-57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 254,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged ┾TEKS┿ gustavoloucoo (B-57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 255,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) set afire ┾TEKS┿ gustavoloucoo (B-57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 138
+        },
+        {
+            "id": 256,
+            "msg": "┾TEKS┿ SRHugo12 (◊MiG-19S) critically damaged ╀P1KE╀ L1b3rt (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 141
+        },
+        {
+            "id": 257,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ┾TEKS┿ gustavoloucoo (B-57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 143
+        },
+        {
+            "id": 258,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 259,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 260,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 144
+        },
+        {
+            "id": 261,
+            "msg": "┾TEKS┿ gustavoloucoo has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 262,
+            "msg": "gustavoloucootd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 263,
+            "msg": "╀P1KE╀ highonvitamin (Object 279) destroyed ┾TEKS┿ IuryRECH (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 264,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) set afire ┾TEKS┿ Capelazo (◊MiG-19S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 265,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged ┾TEKS┿ Capelazo (◊MiG-19S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 190
+        },
+        {
+            "id": 266,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ┾TEKS┿ Capelazo (◊MiG-19S)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 267,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"Supporting Fire x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 268,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 269,
+            "msg": "┾TEKS┿ Capelazo has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 270,
+            "msg": "Capelazotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 212
+        },
+        {
+            "id": 271,
+            "msg": "╀P1KE╀ RepearZz (T-72A) destroyed ┾TEKS┿ paquesito123 (Leopard A1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 272,
+            "msg": "╀P1KE╀ RepearZz (T-72A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 273,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 274,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed ┾TEKS┿ SMEK_2 (Leopard A1A1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 275,
+            "msg": "╀P1KE╀ highonvitamin (Object 279) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 227
+        },
+        {
+            "id": 276,
+            "msg": "┾TEKS┿ paquesito123 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 277,
+            "msg": "paquesito123td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 278,
+            "msg": "┾TEKS┿ IuryRECH has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 258
+        },
+        {
+            "id": 279,
+            "msg": "IuryRECHtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 258
+        },
+        {
+            "id": 280,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 281,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"Base capturer streak: x2!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 282,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Base capturer streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 265
+        },
+        {
+            "id": 283,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) critically damaged ┾TEKS┿ _Atila_ (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 284,
+            "msg": "┾TEKS┿ SRHugo12 (◊MiG-19S) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 347
+        },
+        {
+            "id": 285,
+            "msg": "╀P1KE╀ RepearZz (T-72A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 362
+        },
+        {
+            "id": 286,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 362
+        },
+        {
+            "id": 287,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 288,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 289,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 290,
+            "msg": "╀P1KE╀ highonvitamin (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 291,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 292,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 293,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 294,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 295,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 296,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 363
+        },
+        {
+            "id": 297,
+            "msg": "┾TEKS┿ Girino_Preto has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 298,
+            "msg": "Girino_Pretotd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 365
+        },
+        {
+            "id": 299,
+            "msg": "┾TEKS┿ SRHugo12 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 366
+        },
+        {
+            "id": 300,
+            "msg": "SRHugo12td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 366
+        },
+        {
+            "id": 301,
+            "msg": "┾TEKS┿ SMEK_2 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 366
+        },
+        {
+            "id": 302,
+            "msg": "SMEK_2td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 366
+        },
+        {
+            "id": 303,
+            "msg": "╀LISaC╀ ⋇MaVeRiCk23K5509 (Yak-28B) destroyed ╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 55
+        },
+        {
+            "id": 304,
+            "msg": "╀LISaC╀ ⋇MaVeRiCk23K5509 (Yak-28B) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 56
+        },
+        {
+            "id": 305,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) set afire ╀LISaC╀ ⋇MaVeRiCk23K5509 (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 61
+        },
+        {
+            "id": 306,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ╀LISaC╀ ⋇MaVeRiCk23K5509 (Yak-28B)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 61
+        },
+        {
+            "id": 307,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 62
+        },
+        {
+            "id": 308,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 62
+        },
+        {
+            "id": 309,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged ╀LISaC╀ ⋇MarcooWT (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 79
+        },
+        {
+            "id": 310,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged ╀LISaC╀ ⋇MarcooWT (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 79
+        },
+        {
+            "id": 311,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 90
+        },
+        {
+            "id": 312,
+            "msg": "╀LISaC╀ SoyaBR (Leopard A1A1 (L/44)) destroyed ╀P1KE╀ RepearZz (T-72A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 313,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged ╀LISaC╀ wingzada (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 105
+        },
+        {
+            "id": 314,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged ╀LISaC╀ wingzada (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 112
+        },
+        {
+            "id": 315,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ╀LISaC╀ wingzada (Recon Micro)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 121
+        },
+        {
+            "id": 316,
+            "msg": "╀LISaC╀ SoyaBR (Leopard A1A1 (L/44)) set afire ╀P1KE╀ highonvitamin (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 135
+        },
+        {
+            "id": 317,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) set afire ╀LISaC╀ SoyaBR (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 147
+        },
+        {
+            "id": 318,
+            "msg": "╀LISaC╀ Tiu_Morden (AMX-30 Super) set afire ╀P1KE╀ Epic Yak Sparrow (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 319,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) set afire ╀LISaC╀ Tiu_Morden (AMX-30 Super)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 320,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged ╀LISaC╀ Calango_avuador (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 321,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged ╀LISaC╀ Calango_avuador (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 322,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) set afire ╀LISaC╀ Calango_avuador (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 323,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ╀LISaC╀ Calango_avuador (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 172
+        },
+        {
+            "id": 324,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) destroyed ╀P1KE╀ AmexBlack (AMX-30 Super)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 325,
+            "msg": "╀P1KE╀ highonvitamin (Object 279) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 326,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged ╀LISaC╀ ⋇MaiconSaurin (◊MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 184
+        },
+        {
+            "id": 327,
+            "msg": "╀LISaC╀ Calango_avuador has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 328,
+            "msg": "Calango_avuadortd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 189
+        },
+        {
+            "id": 329,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) set afire ╀P1KE╀ Epic Yak Sparrow (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 193
+        },
+        {
+            "id": 330,
+            "msg": "╀LISaC╀ ⋇MarcooWT (TAM 2IP) destroyed ╀P1KE╀ highonvitamin (Object 279)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 199
+        },
+        {
+            "id": 331,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down ╀LISaC╀ ⋇MaiconSaurin (◊MiG-15)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 204
+        },
+        {
+            "id": 332,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 333,
+            "msg": "╀LISaC╀ Tiu_Morden (AMX-30 Super) destroyed ╀P1KE╀ AverageWZ305Main (PGZ04A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 208
+        },
+        {
+            "id": 334,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) destroyed ╀P1KE╀ Epic Yak Sparrow (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 335,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) destroyed ╀LISaC╀ Lucas_Morato (MBT-70)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 336,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 337,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 338,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 236
+        },
+        {
+            "id": 339,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 240
+        },
+        {
+            "id": 340,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) destroyed ╀LISaC╀ Tiu_Morden (AMX-30 Super)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 341,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 342,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 343,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Base defender: x1!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 344,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 266
+        },
+        {
+            "id": 345,
+            "msg": "╀P1KE╀ Epic Yak Sparrow has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 346,
+            "msg": "Epic Yak Sparrowtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 347,
+            "msg": "╀P1KE╀ RepearZz (T-72A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 348,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 349,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 350,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 351,
+            "msg": "╀LISaC╀ Lucas_Morato (MBT-70) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 352,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 353,
+            "msg": "╀LISaC╀ Tiu_Morden (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 354,
+            "msg": "╀P1KE╀ Epic Yak Sparrow (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 355,
+            "msg": "╀P1KE╀ highonvitamin (Object 279) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 356,
+            "msg": "╀LISaC╀ SoyaBR (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 357,
+            "msg": "╀LISaC╀ ⋇MaVeRiCk23K5509 (Yak-28B) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 358,
+            "msg": "╀LISaC╀ ⋇MarcooWT (TAM 2IP) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 359,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 360,
+            "msg": "╀P1KE╀ L1b3rt (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 361,
+            "msg": "╀LISaC╀ wingzada (Rooikat Mk.1D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 362,
+            "msg": "╀LISaC╀ ⋇MaiconSaurin (◊MiG-15) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 363,
+            "msg": "╀P1KE╀ Anakin1171178 (F-104A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 364,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        },
+        {
+            "id": 365,
+            "msg": "╀LISaC╀ Calango_avuador (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 496
+        }
+    ]
+}

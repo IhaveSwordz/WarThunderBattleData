@@ -34,6 +34,13 @@ class Player:
 	def __str__(self):
 		return f"{self.name}, {self.vehicle}, {self.tag}"
 	
+	def json(self):
+		return {
+			"name": self.name,
+			"vehicle": self.vehicle,
+			"tag": self.tag
+		}
+	
 	def data(self):
 		return self.name, self.vehicle, self.tag
 
@@ -77,25 +84,42 @@ class Battle:
 		                f"{str(player.vehicle):{func(1)}}".replace("None", "N/A ") for player in self.team2])
 		return f"{self.Tags[0]}\n{t1}\n\n{self.Tags[1]}\n{t2}"
 	
+	@staticmethod
+	def test(obj1, obj2):
+		try:
+			obj1.index(obj2)
+			return True
+		except ValueError:
+			return False
 	'''
 	returns a data usable version of the battle in the JSON format
 	currently in dictionary format, should update to return a json.
 	'''
-	
 	def getJSON(self):
+		players = [player.json() for player in [*self.team1, *self.team2]]
+		teamName = [player["name"] for player in players]
+		team1 = [player.json() for player in self.team1]
+		team2 = [player.json() for player in self.team2]
+		team1Name = [player.name for player in self.team1]
+		team2Name = [player.name for player in self.team2]
 		return {
-			"t1Tag": self.Tags[0],
-			"t1Players": [x.name for x in self.team1],
-			"t1Vehicles": [x.vehicle for x in self.team1],
-			"t1Deaths": [[x.dead for x in self.team1]],
-			"t1Kills": [[[x.kills for x in self.team1]]],
-			"t1WinL": False,
-			"t2Tag": self.Tags[1],
-			"t2Players": [x.name for x in self.team2],
-			"t2Vehicles": [x.vehicle for x in self.team2],
-			"t2Deaths": [[x.dead for x in self.team2]],
-			"t2Kills": [[[x.kills for x in self.team2]]],
-			"t2WinL": False,
+			"players": players,
+			"team1Data": {
+				"tag": self.Tags[0],
+				"players" : [{
+					"player": index,
+					"alive": player.dead,
+					"kills": [teamName.index(p.name) if self.test(players, p.json()) else p.json() for p in player.kills]
+				} for index, player in enumerate(self.team1)],
+			},
+			"team2Data": {
+				"tag": self.Tags[1],
+				"players" : [{
+					"player": index,
+					"alive": player.dead,
+					"kills": [teamName.index(p.name) if self.test(players, p.json()) else p.json() for p in player.kills]
+				} for index, player in enumerate(self.team2)],
+			},
 		}
 	
 	def logKills(self):
@@ -126,7 +150,7 @@ class Battle:
 	
 	# looks for player based on inputted information and returns player, if no matching player found, creates a player and returns them
 	def playerSearch(self, tag, name, vehicle):
-		if tag == "BlankBlank":
+		if tag == "GH1234GH":
 			return Player(tag, name, vehicle)
 		# print(tag, name, vehicle)
 		if len(tag) == 0 or len(name) == 0 or len(vehicle) == 0:
@@ -134,6 +158,7 @@ class Battle:
 		# print(tag)
 		# print(self.Tags, *tag, sep="|")
 		# print(tag, name, vehicle)
+		#print(self.team1, self.team2)
 		team: list[Player] = [self.team1, self.team2][self.Tags.index(tag)]
 		for player in team:
 			if player.name == name and player.vehicle == vehicle:
@@ -147,7 +172,8 @@ class Battle:
 	def getTags(self, log):
 		tags = [log[1:log.find(" ") - 1]]
 		index = [x[0] + len(x[1]) for x in
-		         [[log.find(i), i] for i in [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
+		         [[log.find(i), i] for i in
+		          [" shot down ", " damaged ", " destroyed ", "set afire ", " critically damaged "]] if x[0] != -1]
 		if len(index) > 0 and "ai" not in log:
 			tags.append(log[index[0] + 1:log[index[0]:].find(" ") + index[0] - 1])
 		tags = [tag for tag in tags if 2 < len(tag) < 7]
@@ -166,20 +192,25 @@ class Battle:
 		return dat
 	
 	def end_finder(self, log, index):
+		# print(" endinfder ", log, index, log[index])
 		# print(log, index)
 		if log[index] != " " and index < len(log) - 1:
 			return self.end_finder(log, index + 1)
+		# print(index)
 		return index
 	
 	# first stage of processing, assigns metadata to logs and adds them to battle
 	def setMetadata(self, unref):
 		tags = self.getTags(unref)
+		# print("first: ", unref)
 		if "Recon Micro" in unref and "(Recon Micro)" not in unref:
 			unref = unref.replace("Recon Micro", f"╀GH1234GH╀ LIGHT TANK (RECON MICRO)")
-			tags.append("P1KE")
+			tags.append("GH1234GH")
 		# print(unref)
 		place = self.end_finder(unref, unref.find(")"))
+		# print("After: ", unref, place)
 		splitPoint = unref[place:].find(tags[1]) + place if len(tags) == 2 else -1
+		# print("sploitpoint: ", splitPoint, unref[splitPoint-1 : splitPoint+1])
 		players: [Player] = []
 		count = [0, 0]
 		index = None
@@ -192,7 +223,7 @@ class Battle:
 				index = index1 + 1
 				break
 		if index is None:
-			# print(unref[:splitPoint])
+			print(unref[:splitPoint])
 			players.append(self.refinePlayer(
 				
 				unref[unref.index(tags[0]): self.end_finder(unref, unref[:splitPoint].index(")"))]))
@@ -228,7 +259,7 @@ class Battle:
 if __name__ == "__main__":
 	# print("weee")
 	# with urllib.request.urlopen(URL) as f:
-	with open("TestData\\Set29.json", "rb") as f:  # set 11
+	with open("TestData\\Set30.json", "rb") as f:  # set 11
 		json_info = json.loads(f.read().decode('utf-8'))['damage'][::-1]
 		
 		prev = json_info[0]
@@ -247,7 +278,14 @@ if __name__ == "__main__":
 		# print("stuff")
 		# print("Test: ", test)
 		battle.update(unicodedata.normalize("NFC", test).replace("⋇ ", "^"))
-	print(battle)
+	# print(json.dumps(battle.getJSON()))
+	print(battle.__str__())
+	with open("saveFile.json", "rb") as f:
+		data: dict = json.load(f)
+		data["battles"].append(battle.getJSON())
+		print(data)
+	with open("saveFile.json", "wb") as f:
+		f.write(bytes(json.dumps(data).encode("utf-8")))
 # set13, I should be dead. FIXED
 # set17, ZSU should be dead
 # set 18, M4a3e2 counted twice, one missing part of vehicle name. FIXED
@@ -278,3 +316,7 @@ set 30
 IndexError: list index out of range
 '''
 # set 31, Clickbait sohuld be dead
+# set 32, XXAndreBrXX should be dead
+# set 33, play should be dead
+# set 34, ASRAD should be dead
+# set, 35 / 36, substring not found

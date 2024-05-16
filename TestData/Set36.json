@@ -1,0 +1,1045 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 321,
+            "msg": "-XDMAD- ⋇thunderstar39 (Begleitpanzer 57) set afire ╀P1KE╀ BAdgEr (PTZ89)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 322,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) destroyed -XDMAD- ⋇thunderstar39 (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 139
+        },
+        {
+            "id": 323,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 324,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 325,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 140
+        },
+        {
+            "id": 326,
+            "msg": "-XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4) critically damaged ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 327,
+            "msg": "-XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4) set afire ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 328,
+            "msg": "-XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4) severely damaged ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 163
+        },
+        {
+            "id": 329,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) destroyed ╀P1KE╀ AverageWZ305Main (PGZ04A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 176
+        },
+        {
+            "id": 330,
+            "msg": "-XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4) shot down ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 182
+        },
+        {
+            "id": 331,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed -XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 205
+        },
+        {
+            "id": 332,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 333,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 334,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 335,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 206
+        },
+        {
+            "id": 336,
+            "msg": "-XDMAD- ⋇CaLuM_MeGa1124 (Begleitpanzer 57) destroyed ╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 229
+        },
+        {
+            "id": 337,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) critically damaged -XDMAD- ⋇Major_Thrasher (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 338,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) shot down -XDMAD- ⋇Major_Thrasher (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 339,
+            "msg": "-XDMAD- ⋇Major_Thrasher (Ayit) destroyed -XDMAD- ⋇CaLuM_MeGa1124 (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 231
+        },
+        {
+            "id": 340,
+            "msg": "-XDMAD- ⋇Major_Thrasher (Ayit) destroyed ╀P1KE╀ CanadianChi (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 232
+        },
+        {
+            "id": 341,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) destroyed -XDMAD- ⋇GlG_Asian (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 233
+        },
+        {
+            "id": 342,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 343,
+            "msg": "╀P1KE╀ CanadianChi (XM1 (GM)) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 234
+        },
+        {
+            "id": 344,
+            "msg": "-XDMAD- ⋇smlxa (A-4E) critically damaged ╀P1KE╀ bballjake1030 (Yak-38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 345,
+            "msg": "-XDMAD- ⋇smlxa (A-4E) shot down ╀P1KE╀ bballjake1030 (Yak-38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 287
+        },
+        {
+            "id": 346,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) critically damaged -XDMAD- ⋇smlxa (A-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 347,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) shot down -XDMAD- ⋇smlxa (A-4E)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 348,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 290
+        },
+        {
+            "id": 349,
+            "msg": "-XDMAD- ⋇GlG_Asian has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 350,
+            "msg": "⋇GlG_Asiantd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 296
+        },
+        {
+            "id": 351,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 352,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 353,
+            "msg": "-XDMAD- ⋇Major_Thrasher (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 354,
+            "msg": "-XDMAD- ⋇xBanDiToBurRiTox (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 355,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 356,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 357,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 358,
+            "msg": "╀P1KE╀ CanadianChi (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 359,
+            "msg": "╀P1KE╀ CanadianChi (XM1 (GM)) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 360,
+            "msg": "-XDMAD- ⋇thunderstar39 (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 361,
+            "msg": "-XDMAD- ⋇TWiB1974 (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 362,
+            "msg": "-XDMAD- ⋇CaLuM_MeGa1124 (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 363,
+            "msg": "-XDMAD- ⋇GlG_Asian (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 364,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 365,
+            "msg": "-XDMAD- ⋇Failedapexdance1 (ZSU-23-4M4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 366,
+            "msg": "-XDMAD- ⋇smlxa (A-4E) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 367,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 368,
+            "msg": "-XDMAD- ⋇Major_Thrasher has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 369,
+            "msg": "⋇Major_Thrashertd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 370,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 371,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 297
+        },
+        {
+            "id": 372,
+            "msg": "-XDMAD- ⋇Failedapexdance1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 373,
+            "msg": "⋇Failedapexdance1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 298
+        },
+        {
+            "id": 374,
+            "msg": "-XDMAD- ⋇thunderstar39 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 375,
+            "msg": "⋇thunderstar39td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 299
+        },
+        {
+            "id": 376,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed -TIARG- Kepler_System (◊T-72M1)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 377,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 378,
+            "msg": "-TIARG- nitoreytor (Ayit) destroyed ╀P1KE╀ AmexBlack (AMX-30 Super)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 153
+        },
+        {
+            "id": 379,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed -TIARG- ⋇MajulioPMY (Olifant Mk.2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 160
+        },
+        {
+            "id": 380,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 381,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 382,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) destroyed -TIARG- RAPTOR_COL (AMX-30 Super)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 164
+        },
+        {
+            "id": 383,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 384,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 385,
+            "msg": "-TIARG- Menemeitor (M247) critically damaged ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 386,
+            "msg": "-TIARG- Menemeitor (M247) severely damaged ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 165
+        },
+        {
+            "id": 387,
+            "msg": "-TIARG- Menemeitor (M247) set afire ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 173
+        },
+        {
+            "id": 388,
+            "msg": "-TIARG- Menemeitor (M247) shot down ╀P1KE╀ Anakin1171178 (Su-7BMK)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 180
+        },
+        {
+            "id": 389,
+            "msg": "-TIARG- ⋇MajulioPMY has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 390,
+            "msg": "⋇MajulioPMYtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 185
+        },
+        {
+            "id": 391,
+            "msg": "-TIARG- Menemeitor (M247) critically damaged ╀P1KE╀ bballjake1030 (Yak-38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 392,
+            "msg": "-TIARG- Menemeitor (M247) shot down ╀P1KE╀ bballjake1030 (Yak-38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 198
+        },
+        {
+            "id": 393,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged -TIARG- nitoreytor (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 394,
+            "msg": "-TIARG- RAPTOR_COL has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 395,
+            "msg": "RAPTOR_COLtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 216
+        },
+        {
+            "id": 396,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) critically damaged Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 397,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) destroyed [ai] Recon Micro",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 398,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed -TIARG- Blackace93 (Type 87 RCV)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 399,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 248
+        },
+        {
+            "id": 400,
+            "msg": "╀P1KE╀ bballjake1030 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 401,
+            "msg": "bballjake1030td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 330
+        },
+        {
+            "id": 402,
+            "msg": "-TIARG- ErDiabl0 (Object 122MT \"MC\") destroyed ╀P1KE╀ CrinkledJuiceBox (M247)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 401
+        },
+        {
+            "id": 403,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) destroyed -TIARG- ErDiabl0 (Object 122MT \"MC\")",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 443
+        },
+        {
+            "id": 404,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 444
+        },
+        {
+            "id": 405,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 444
+        },
+        {
+            "id": 406,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) severely damaged -TIARG- nitoreytor (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 407,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) critically damaged -TIARG- nitoreytor (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 408,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) set afire -TIARG- nitoreytor (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 409,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) shot down -TIARG- nitoreytor (Ayit)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 410,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 469
+        },
+        {
+            "id": 411,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Adamant\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 478
+        },
+        {
+            "id": 412,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) destroyed -TIARG- Menemeitor (M247)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 478
+        },
+        {
+            "id": 413,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 479
+        },
+        {
+            "id": 414,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) destroyed -TIARG- corrector12000 (XM1 (GM))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 480
+        },
+        {
+            "id": 415,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 481
+        },
+        {
+            "id": 416,
+            "msg": "╀P1KE╀ bballjake1030 (Yak-38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 417,
+            "msg": "-TIARG- Menemeitor (M247) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 418,
+            "msg": "╀P1KE╀ AmexBlack (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 419,
+            "msg": "╀P1KE╀ CrinkledJuiceBox (M247) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 420,
+            "msg": "╀P1KE╀ AverageWZ305Main (PGZ04A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 421,
+            "msg": "-TIARG- Blackace93 (Type 87 RCV) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 422,
+            "msg": "╀P1KE╀ CanadianChi (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 423,
+            "msg": "-TIARG- Kepler_System (◊T-72M1) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 424,
+            "msg": "-TIARG- ErDiabl0 (Object 122MT \"MC\") has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 487
+        },
+        {
+            "id": 425,
+            "msg": "-TIARG- RAPTOR_COL (AMX-30 Super) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 426,
+            "msg": "-TIARG- corrector12000 (XM1 (GM)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 427,
+            "msg": "-TIARG- ⋇MajulioPMY (Olifant Mk.2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 428,
+            "msg": "-TIARG- nitoreytor (Ayit) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 429,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 430,
+            "msg": "╀P1KE╀ BAdgEr (PTZ89) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 431,
+            "msg": "╀P1KE╀ Anakin1171178 (Su-7BMK) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 432,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 433,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 434,
+            "msg": "╀P1KE╀ KUPAAA_NAKADASH (Leopard A1A1 (L/44)) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 488
+        },
+        {
+            "id": 435,
+            "msg": "-TIARG- ErDiabl0 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 489
+        },
+        {
+            "id": 436,
+            "msg": "ErDiabl0td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 489
+        },
+        {
+            "id": 437,
+            "msg": "╀P1KE╀ AmexBlack has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 490
+        },
+        {
+            "id": 438,
+            "msg": "AmexBlacktd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 490
+        },
+        {
+            "id": 439,
+            "msg": "╀P1KE╀ CrinkledJuiceBox has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 440,
+            "msg": "CrinkledJuiceBoxtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 441,
+            "msg": "-TIARG- Menemeitor has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 442,
+            "msg": "Menemeitortd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 443,
+            "msg": "╀P1KE╀ Anakin1171178 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 444,
+            "msg": "Anakin1171178td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 445,
+            "msg": "-TIARG- corrector12000 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 446,
+            "msg": "corrector12000td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 447,
+            "msg": "-TIARG- Blackace93 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 448,
+            "msg": "Blackace93td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 491
+        },
+        {
+            "id": 449,
+            "msg": "-TIARG- nitoreytor has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 492
+        },
+        {
+            "id": 450,
+            "msg": "nitoreytortd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 492
+        }
+    ]
+}

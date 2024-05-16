@@ -1,0 +1,1269 @@
+{
+    "events": [],
+    "damage": [
+        {
+            "id": 833,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Tank Rescuer: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 834,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 835,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 125
+        },
+        {
+            "id": 836,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) severely damaged =BLKFT= moist toast (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 837,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) set afire =BLKFT= moist toast (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 838,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) shot down =BLKFT= moist toast (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 166
+        },
+        {
+            "id": 839,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) destroyed =BLKFT= _2388621 (Begleitpanzer 57)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 168
+        },
+        {
+            "id": 840,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 169
+        },
+        {
+            "id": 841,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) destroyed =BLKFT= QuaaludeAddict43 (M1128 Wolfpack)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 178
+        },
+        {
+            "id": 842,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 843,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 844,
+            "msg": "╀P1KE╀ mercyflush_ (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 845,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 846,
+            "msg": "=BLKFT= someon444 (A-10A) severely damaged ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 847,
+            "msg": "=BLKFT= someon444 (A-10A) set afire ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 848,
+            "msg": "=BLKFT= someon444 (A-10A) shot down ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 179
+        },
+        {
+            "id": 849,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) critically damaged =BLKFT= someon444 (A-10A)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 197
+        },
+        {
+            "id": 850,
+            "msg": "=BLKFT= kaiaspen (F-5C) critically damaged ╀P1KE╀ AverageWZ305Main (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 211
+        },
+        {
+            "id": 851,
+            "msg": "=BLKFT= kaiaspen (F-5C) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 213
+        },
+        {
+            "id": 852,
+            "msg": "=BLKFT= kaiaspen (F-5C) shot down ╀P1KE╀ AverageWZ305Main (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 215
+        },
+        {
+            "id": 853,
+            "msg": "╀P1KE╀ Anakin1171178 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 854,
+            "msg": "Anakin1171178td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 221
+        },
+        {
+            "id": 855,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) destroyed =BLKFT= dustinkoehler79 (BMP-2M)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 224
+        },
+        {
+            "id": 856,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 857,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 858,
+            "msg": "╀P1KE╀ mercyflush_ (2S38) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 225
+        },
+        {
+            "id": 859,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) set afire =BLKFT= Nacrazy (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 280
+        },
+        {
+            "id": 860,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) set afire =BLKFT= Nacrazy (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 292
+        },
+        {
+            "id": 861,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) destroyed =BLKFT= Nacrazy (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 862,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"Teamwork: x3\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 863,
+            "msg": "=BLKFT= ⋇iNovaWT has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 864,
+            "msg": "⋇iNovaWTtd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 303
+        },
+        {
+            "id": 865,
+            "msg": "=BLKFT= _2388621 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 866,
+            "msg": "_2388621td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 327
+        },
+        {
+            "id": 867,
+            "msg": "=BLKFT= Nacrazy (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 868,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 869,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 870,
+            "msg": "=BLKFT= kaiaspen (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 871,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 872,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 873,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Bulletproof\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 874,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 875,
+            "msg": "=BLKFT= someon444 (A-10A) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 876,
+            "msg": "=BLKFT= QuaaludeAddict43 (M1128 Wolfpack) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 877,
+            "msg": "=BLKFT= moist toast (J35D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 878,
+            "msg": "╀P1KE╀ mercyflush_ (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 879,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 880,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 881,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 882,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 883,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 884,
+            "msg": "=BLKFT= dustinkoehler79 (BMP-2M) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 885,
+            "msg": "=BLKFT= _2388621 (Begleitpanzer 57) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 886,
+            "msg": "=BLKFT= ⋇iNovaWT (T-80UD) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 338
+        },
+        {
+            "id": 887,
+            "msg": "╀P1KE╀ AverageWZ305Main has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 888,
+            "msg": "AverageWZ305Maintd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 889,
+            "msg": "=BLKFT= QuaaludeAddict43 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 890,
+            "msg": "QuaaludeAddict43td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 891,
+            "msg": "=BLKFT= dustinkoehler79 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 892,
+            "msg": "dustinkoehler79td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 893,
+            "msg": "=BLKFT= moist toast has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 894,
+            "msg": "moist toasttd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 895,
+            "msg": "=BLKFT= kaiaspen has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 896,
+            "msg": "kaiaspentd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 341
+        },
+        {
+            "id": 897,
+            "msg": "╀P1KE╀ leopolice1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 898,
+            "msg": "leopolice1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 899,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) shot down ╀P1KE╀ AlexanderDG56453 (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 900,
+            "msg": "=BLKFT= Nacrazy has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 901,
+            "msg": "Nacrazytd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 342
+        },
+        {
+            "id": 902,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) set afire ╔2L2C╕ vAtS (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 98
+        },
+        {
+            "id": 903,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) set afire ╔2L2C╕ Doliche (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 115
+        },
+        {
+            "id": 904,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) destroyed ╔2L2C╕ Doliche (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 905,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has delivered the first strike!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 906,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 907,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 908,
+            "msg": "╀P1KE╀ mercyflush_ (2S38) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 909,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"Teamwork: x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 119
+        },
+        {
+            "id": 910,
+            "msg": "╔2L2C╕ cool_jaz (G-LYNX) destroyed ╀P1KE╀ mercyflush_ (2S38)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 122
+        },
+        {
+            "id": 911,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) destroyed ╔2L2C╕ hunt2hunt1328 (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 126
+        },
+        {
+            "id": 912,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"Double strike!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 913,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 914,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 915,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"Teamwork: x2\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 127
+        },
+        {
+            "id": 916,
+            "msg": "╔2L2C╕ cool_jaz (G-LYNX) destroyed ╀P1KE╀ leopolice1 (Abrams)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 161
+        },
+        {
+            "id": 917,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) critically damaged ╔2L2C╕ Nobunori6456 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 918,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) severely damaged ╔2L2C╕ Nobunori6456 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 181
+        },
+        {
+            "id": 919,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) shot down ╔2L2C╕ Nobunori6456 (MiG-21SMT)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 183
+        },
+        {
+            "id": 920,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) destroyed ╔2L2C╕ vAtS (Leopard 2 (PzBtl 123))",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 921,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"Supporting Fire x1\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 203
+        },
+        {
+            "id": 922,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) severely damaged ╀P1KE╀ AlexanderDG56453 (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 214
+        },
+        {
+            "id": 923,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) severely damaged ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 924,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) set afire ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 235
+        },
+        {
+            "id": 925,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) shot down ╀P1KE╀ AlexanderDG56453 (G-LYNX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 239
+        },
+        {
+            "id": 926,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) shot down ╀P1KE╀ Anakin1171178 (J35D)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 242
+        },
+        {
+            "id": 927,
+            "msg": "╔2L2C╕ chunky_peanut_bu (AMX) destroyed ╀P1KE╀ highonvitamin (T-72M2)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 244
+        },
+        {
+            "id": 928,
+            "msg": "╔2L2C╕ ⋇Cramper648 (Leopard 2A4) destroyed ╀P1KE╀ Hydcide (T-80UD)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 289
+        },
+        {
+            "id": 929,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) destroyed ╔2L2C╕ ⋇Cramper648 (Leopard 2A4)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 930,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 931,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"Avenger\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 293
+        },
+        {
+            "id": 932,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) critically damaged ╔2L2C╕ chunky_peanut_bu (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 933,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) severely damaged ╔2L2C╕ chunky_peanut_bu (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 934,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) set afire ╔2L2C╕ chunky_peanut_bu (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 935,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) shot down ╔2L2C╕ chunky_peanut_bu (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 335
+        },
+        {
+            "id": 936,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"Ground Force Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 937,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"Shadow strike streak: x3!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 336
+        },
+        {
+            "id": 938,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) severely damaged ╀P1KE╀ AverageWZ305Main (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 398
+        },
+        {
+            "id": 939,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) shot down ╀P1KE╀ AverageWZ305Main (AMX)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 420
+        },
+        {
+            "id": 940,
+            "msg": "╔2L2C╕ cool_jaz (G-LYNX) has crashed.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 432
+        },
+        {
+            "id": 941,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) critically damaged ╔2L2C╕ IamFr3shy (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 449
+        },
+        {
+            "id": 942,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) severely damaged ╔2L2C╕ IamFr3shy (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 943,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) shot down ╔2L2C╕ IamFr3shy (F-5C)",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 450
+        },
+        {
+            "id": 944,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"Fighter Rescuer\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 451
+        },
+        {
+            "id": 945,
+            "msg": "╔2L2C╕ Doliche (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 946,
+            "msg": "╔2L2C╕ Nobunori6456 (MiG-21SMT) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 452
+        },
+        {
+            "id": 947,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 948,
+            "msg": "╀P1KE╀ AverageWZ305Main (AMX) has achieved \"Heavy Metal Fury\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 949,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 950,
+            "msg": "╀P1KE╀ AlexanderDG56453 (G-LYNX) has achieved \"On Hand\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 951,
+            "msg": "╔2L2C╕ vAtS (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 952,
+            "msg": "╔2L2C╕ cool_jaz (G-LYNX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 953,
+            "msg": "╀P1KE╀ highonvitamin (T-72M2) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 954,
+            "msg": "╔2L2C╕ ⋇Cramper648 (Leopard 2A4) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 955,
+            "msg": "╀P1KE╀ Hydcide (T-80UD) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 956,
+            "msg": "╔2L2C╕ hunt2hunt1328 (Leopard 2 (PzBtl 123)) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 957,
+            "msg": "╔2L2C╕ chunky_peanut_bu (AMX) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 958,
+            "msg": "╔2L2C╕ IamFr3shy (F-5C) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 959,
+            "msg": "╀P1KE╀ mercyflush_ (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 960,
+            "msg": "╀P1KE╀ leopolice1 (Abrams) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 961,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has delivered the final blow!",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 962,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The last man standing!\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 963,
+            "msg": "╀P1KE╀ IhaveSwordz (2S38) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 964,
+            "msg": "╀P1KE╀ Anakin1171178 (J35D) has achieved \"The Best Squad\"",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 453
+        },
+        {
+            "id": 965,
+            "msg": "╀P1KE╀ AverageWZ305Main has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 966,
+            "msg": "AverageWZ305Maintd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 967,
+            "msg": "╔2L2C╕ hunt2hunt1328 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 968,
+            "msg": "hunt2hunt1328td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 969,
+            "msg": "╀P1KE╀ Hydcide has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 970,
+            "msg": "Hydcidetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 971,
+            "msg": "╀P1KE╀ AlexanderDG56453 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 972,
+            "msg": "AlexanderDG56453td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 973,
+            "msg": "╔2L2C╕ vAtS has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 974,
+            "msg": "vAtStd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 975,
+            "msg": "╔2L2C╕ chunky_peanut_bu has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 976,
+            "msg": "chunky_peanut_butd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 977,
+            "msg": "╔2L2C╕ cool_jaz has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 978,
+            "msg": "cool_jaztd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 979,
+            "msg": "╔2L2C╕ ⋇Cramper648 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 980,
+            "msg": "⋇Cramper648td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 981,
+            "msg": "╀P1KE╀ mercyflush_ has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 982,
+            "msg": "mercyflush_td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 983,
+            "msg": "╔2L2C╕ Doliche has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 984,
+            "msg": "Dolichetd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 985,
+            "msg": "╀P1KE╀ Anakin1171178 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 986,
+            "msg": "Anakin1171178td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 987,
+            "msg": "╀P1KE╀ leopolice1 has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 988,
+            "msg": "leopolice1td! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 989,
+            "msg": "╀P1KE╀ highonvitamin has disconnected from the game.",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        },
+        {
+            "id": 990,
+            "msg": "highonvitamintd! kd?NET_PLAYER_DISCONNECT_FROM_GAME",
+            "sender": "",
+            "enemy": false,
+            "mode": "",
+            "time": 456
+        }
+    ]
+}
